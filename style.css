@@ -201,3 +201,21 @@ header {
     scale: 1.58;
 }
 
+.shop-container .box .box-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    object-position: center;
+}
+
+.shop-container .box h2{
+    color: #ebdbc8;
+    font-size: 1.2rem;
+}
+
+.shop-container .box span{
+    color: #ebdbc7;
+    font-size: 1.4rem;
+    font-weight: 500;
+    margin: .2rem 0 .5rem;
+}
